@@ -18,7 +18,7 @@ ____
 | Name | Description | Tools |
 | --- | --- | --- |
 | [3DViewer]() | Приложение для визуализации 3D моделей | C, Qt, MakeFile |
-| [Matrix]() | Библиотека для работы с двумерными массивами
+| [Matrix]() | Библиотека для работы с двумерными массивами| C++, MakeFile |
 | [CPPSmartCalc]() | Расширенный калькулятор с возможностью построения графика функций и рассчета кредита | C++, MVC, Qt, gtest, cmake |
 | [Containers]() | Повторение реализации стандартной библиотеки C++ STL | C++, STL, MVC, AVL Binary Tree, gtest, makefile |
 | [SQLBootcamp]() | Кластер учебных проектов по изучению работы с PostgreSQL | PostgreSQL |
