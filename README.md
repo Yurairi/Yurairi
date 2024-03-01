@@ -27,7 +27,7 @@ ____
 | Name | Description | Tools |
 | --- | --- | --- |
 | [Нарды](https://github.com/Yurairi/sfml-backgammon) | Нарды с графическим интерфейсом hotseat | C++, SFML, Desktop |
-| [Бот для мемов с котиками]([https://github.com/Yurairi/ADS/tree/develop/Kursachevski](https://github.com/Yurairi/KittenMemeBot)) | Бот позволяющий добавлять ваш текст на случайную картинку с котиком | Python, Aiogram, Asyncio |
+| [Бот для мемов с котиками](https://github.com/Yurairi/KittenMemeBot) | Бот позволяющий добавлять ваш текст на случайную картинку с котиком | Python, Aiogram, Asyncio |
 
 ### 📈 Коммерческие проекты
 | Name | Description | Tools |
