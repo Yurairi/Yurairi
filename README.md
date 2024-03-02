@@ -2,7 +2,7 @@
 ## Умения:
   - 👨‍💻 C/C++, C#, Python, Kotlin
   - 🖥️ OpenCV, OpenGl, SFML, Qt
-  - 🐍 NumPy, FastAPI, Streamlit
+  - 🐍 NumPy, FastAPI, Streamlit, Asyncio, Aiogram
   - 🤖 Docker, Bash, Shell, Gitlab
   - 🗄 PostgreSQL, SQLite, MSSql
 
