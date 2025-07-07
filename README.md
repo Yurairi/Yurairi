@@ -1,4 +1,4 @@
-# 👋 Привет, я Софья - MLE at SaluteRpa 
+# 👋 Привет, я Софья - MLE at SaluteRPA 
 ## Умения:
   - 💪 CV, NLP, LLM
   - 👨‍💻 Python, C/C++, C#, Kotlin
