@@ -8,7 +8,7 @@
   - 🗄 PostgreSQL, SQLite, MSSql
 
 ## Учеба: 
-  - 🎓 Студент [21 School](https://21-school.ru)
+  - 🎓 Выпускник [21 School](https://21-school.ru)
   - 🎓 Выпускник [КНИТУ-КАИ](https://kai.ru/) направления прикладная математика и информатика 
 
 ____
