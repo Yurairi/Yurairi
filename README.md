@@ -3,8 +3,8 @@
   - 💪 CV, NLP, LLM
   - 👨‍💻 Python, C/C++, C#, Kotlin
   - 🖥️ PyTorch, TensorFlow, Scikit-learn, OpenCV, Gradio
-  - 🐍 FastAPI, Streamlit, 
-  - 🤖 Docker, Bash, Shell, Gitlab, 
+  - 🐍 FastAPI, Streamlit 
+  - 🤖 Docker, Bash, Shell, Gitlab 
   - 🗄 PostgreSQL, SQLite, MSSql
 
 ## Учеба: 
