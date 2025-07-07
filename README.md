@@ -1,14 +1,15 @@
-# 👋 Привет, я Софья - C/С++/C# Desktop developer Python/Kotlin/DevOps 
+# 👋 Привет, я Софья - MLE at SaluteRpa 
 ## Умения:
-  - 👨‍💻 C/C++, C#, Python, Kotlin
-  - 🖥️ OpenCV, OpenGl, SFML, Qt
-  - 🐍 NumPy, FastAPI, Streamlit, Asyncio, Aiogram
-  - 🤖 Docker, Bash, Shell, Gitlab
+  - 💪 CV, NLP, LLM
+  - 👨‍💻 Python, C/C++, C#, Kotlin
+  - 🖥️ PyTorch, TensorFlow, Scikit-learn, OpenCV, Gradio
+  - 🐍 FastAPI, Streamlit, 
+  - 🤖 Docker, Bash, Shell, Gitlab, 
   - 🗄 PostgreSQL, SQLite, MSSql
 
 ## Учеба: 
   - 🎓 Студент [21 School](https://21-school.ru)
-  - 🎓 Студент 3 курса [КНИТУ-КАИ](https://kai.ru/) направления прикладная математика и информатика 
+  - 🎓 Выпускник [КНИТУ-КАИ](https://kai.ru/) направления прикладная математика и информатика 
 
 ____
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurairi&layout=compact&hide_border=true&hide=jupyter%20notebook,vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/Yurairi?tab=repositories)
