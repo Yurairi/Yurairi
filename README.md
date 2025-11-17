@@ -1,11 +1,11 @@
-# 👋 Привет, я Софья - MLE at SaluteRPA 
+# Привет, я Софья - MLE at SaluteRPA 
 ## Умения:
-  - 💪 CV, NLP, LLM
-  - 👨‍💻 Python, C/C++, C#, Kotlin
-  - 🖥️ PyTorch, TensorFlow, Scikit-learn, OpenCV, Gradio
-  - 🐍 FastAPI, Streamlit 
-  - 🤖 Docker, Bash, Shell, Gitlab 
-  - 🗄 PostgreSQL, SQLite, MSSql
+  - CV, NLP, LLM
+  - Python, C/C++, C#, Kotlin
+  - PyTorch, TensorFlow, Scikit-learn, OpenCV, Gradio
+  - FastAPI, Streamlit 
+  - Docker, Bash, Shell, Gitlab 
+  - PostgreSQL, SQLite, MSSql
 
 ## Учеба: 
   - 🎓 Выпускник [21 School](https://21-school.ru)
@@ -28,7 +28,6 @@ ____
 | Name | Description | Tools |
 | --- | --- | --- |
 | [Нарды](https://github.com/Yurairi/sfml-backgammon) | Нарды с графическим интерфейсом hotseat | C++, SFML, Desktop |
-| [Бот для мемов с котиками](https://github.com/Yurairi/KittenMemeBot) | Бот позволяющий добавлять ваш текст на случайную картинку с котиком | Python, Aiogram, Asyncio |
 
 ### 📈 Коммерческие проекты
 | Name | Description | Tools |
