@@ -1,4 +1,3 @@
-# Привет, я Софья - MLE at SaluteRPA 
 ## Умения:
   - CV, NLP, LLM
   - Python, C/C++, C#, Kotlin
@@ -8,7 +7,6 @@
   - PostgreSQL, SQLite, MSSql
 
 ## Учеба: 
-  - 🎓 Выпускник [21 School](https://21-school.ru)
   - 🎓 Выпускник [КНИТУ-КАИ](https://kai.ru/) направления прикладная математика и информатика 
 
 ____
